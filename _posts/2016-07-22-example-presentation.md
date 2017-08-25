@@ -1,7 +1,7 @@
 ---
 layout: slide
-title: Introduction to Research Data Management for Librarians
-excerpt: Webinar presentation as part of the Help! I’m an Accidental Government Information Librarian webinar series, North Carolina Library Association, Government Resources Section.  Access: http://bit.ly/2mNpMau"
+title: Example Reveal.js Presentation Deck
+excerpt: A sample file showing the correct markup for creating a Reveal.js slide deck"
 theme: simple
 transition: convex
 tags: [presentation]
