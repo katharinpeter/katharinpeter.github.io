@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: Introduction to Research Data Management for Librarians 
+title: Introduction to Research Data Management for Librarians
 excerpt: A sample file showing the correct markup for creating a Reveal.js slide deck"
 theme: simple
 transition: convex
@@ -16,7 +16,7 @@ category: presentation
 
 <section data-markdown>
 ## HTML or Markdown
-Reveal.js works with either. Use whatever you are more comfortable with.
+Reveal.js works with either, yo. Use whatever you are more comfortable with.
 
 </section>
 
