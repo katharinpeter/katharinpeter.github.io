@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: Example Reveal.js Presentation Deck
+title: Introduction to Research Data Management for Librarians 
 excerpt: A sample file showing the correct markup for creating a Reveal.js slide deck"
 theme: simple
 transition: convex
