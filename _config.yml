@@ -1,27 +1,27 @@
 # Site wide configuration
 
-title: Site Title
+title: Katharin Peter
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Katharin Peter
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: "Research Librarian"
+  email: kapeter@ucsc.edu
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username
-  github: #username
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  github: https://github.com/katharinpeter
+  orcid: 0000-0001-8443-230X  
   researchgate: #username
   mendeley: #username
   google:
     plus: #username
     analytics:
     verify:
-    scholar: #id
+    scholar: w7vUnSUAAAAJ&hl
   facebook: #username
   instagram: #username
   bing-verify:
@@ -43,7 +43,7 @@ owner:
   # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
 creative-commons:
   cc-by: #yes
-  cc-by-nc: #yes
+  cc-by-nc: yes
 
 #DO NOT EDIT BEYOND THIS POINT
 # Jekyll configuration
